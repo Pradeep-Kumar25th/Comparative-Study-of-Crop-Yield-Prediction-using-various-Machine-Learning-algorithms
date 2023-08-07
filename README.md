@@ -1,0 +1,2 @@
+# Comparative-Study-of-Crop-Yield-Prediction-using-various-Machine-Learning-algorithms
+This project compares regression techniques (Linear Regression, Decision Tree Regressor, Random Forest Regressor) to predict crop yields for agricultural planning. DecisionTreeRegressor emerges as the top performer, offering accurate and interpretable predictions. Valuable insights are gained for resource management.
